@@ -1,0 +1,30 @@
+title: Dear God, I Have A Headache
+email: thelunanova@protonmail.com
+description: >-
+  A collection of articles I wrote while having a
+  headache. Brace yourselves.
+baseurl: '/dear-god-i-have-a-headache'
+url: 'https://lunaisnotaboy.github.io'
+twitter_username: lunaisnotaboy
+github_username: lunaisnotaboy
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .editorconfig
+  - .gitignore
+  - LICENSE
+  - README.md
+  - TEXT-LICENSE
